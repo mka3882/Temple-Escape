@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7858742465417407967
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2576701448192487493, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Name
+      value: 60 Degree Rotation Single Laser Emitter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5733619559733211054, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267172080225542283, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: e_YROT
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762879858809448683, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: reflector
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374831493696666188, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374831493696666188, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Positions.Array.data[0].x
+      value: 8.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374831493696666188, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 8.719997
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374831493696666188, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].y
+      value: 4.5782514
+      objectReference: {fileID: 0}
+    - target: {fileID: 8374831493696666188, guid: 1baf320d921611a459fb00bcf52930fd,
+        type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: 58.520454
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1baf320d921611a459fb00bcf52930fd, type: 3}

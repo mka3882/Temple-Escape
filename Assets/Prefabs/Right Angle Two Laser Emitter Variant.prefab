@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4752278509172281467
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4219551742502015352, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_Name
+      value: Right Angle Two Laser Emitter
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259294537624637075, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743748043037934006, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: e_XROT
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743748043037934006, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: emitterPattern
+      value: two
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743748043037934006, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: e_YROT
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743748043037934006, guid: efa06e3cb482c0242afe74bc3539f1ac,
+        type: 3}
+      propertyPath: matrixDictionary
+      value: complex
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: efa06e3cb482c0242afe74bc3539f1ac, type: 3}
